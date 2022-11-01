@@ -42,6 +42,7 @@
     color: #000;
     text-align: center;
     font-family:Avenir;
+    font-size: 17;
   }
 
 .lablink {
@@ -57,4 +58,20 @@ a:hover {
 
 .contact_icons {
     text-align:center;
+    font-size:40;
+}
+
+
+
+.sub_header {
+    font-family:Avenir;
+    text-align:left;
+    font-weight: 40;
+    font-size:40;
+}
+
+.emoji_size {
+    font-family:Avenir;
+    text-align:center;
+    font-size:25;
 }
