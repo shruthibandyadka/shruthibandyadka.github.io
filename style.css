@@ -16,6 +16,10 @@
   text-align: center;
 }
 
+#main p {
+  text-align: center;
+}
+
 .pageheader_style{
     font-family:Avenir Next;
     text-align:center;
