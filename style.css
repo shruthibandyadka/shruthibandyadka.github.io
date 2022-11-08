@@ -12,12 +12,8 @@
     font-size:80;
 }
 
-.h1{
-    font-family:Avenir Next;
-    text-align:center;
-    font-weight: 40;
-    font-size:40;
-    margin: auto;
+#main h1 {
+  text-align: center;
 }
 
 .pageheader_style{
